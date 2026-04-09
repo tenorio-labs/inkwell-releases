@@ -8,6 +8,8 @@
     <img alt="macOS" src="https://img.shields.io/badge/macOS-supported-black?style=flat-square&logo=apple">
     <img alt="Windows" src="https://img.shields.io/badge/Windows-supported-black?style=flat-square&logo=windows">
   </p>
+  <br/>
+  <video src="https://github.com/tenorio-labs/inkwell-releases/releases/download/v0.1.0/demo.mp4" width="100%" autoplay loop muted playsinline></video>
 </div>
 
 ---
@@ -41,7 +43,7 @@ Download the correct `.dmg` for your Mac from the [latest release](https://githu
 
 | Mac | File |
 |---|---|
-| Apple Silicon (M1, M2, M3, M4) | `Inkwell_x.x.x_aarch64.dmg` |
+| Apple Silicon (M1, M2, M3, M4, M5) | `Inkwell_x.x.x_aarch64.dmg` |
 | Intel | `Inkwell_x.x.x_x64.dmg` |
 
 Follow the same steps above to open the app after installation.
