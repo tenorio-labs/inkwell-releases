@@ -9,8 +9,12 @@
     <img alt="Windows" src="https://img.shields.io/badge/Windows-supported-black?style=flat-square&logo=windows">
   </p>
   <br/>
-  <video src="https://github.com/tenorio-labs/inkwell-releases/releases/download/v0.1.0/demo.mp4" width="100%" autoplay loop muted playsinline></video>
+  
+[  <video src="https://github.com/tenorio-labs/inkwell-releases/releases/download/v0.1.0/demo.mp4" width="100%" autoplay loop muted playsinline></video>](https://github.com/user-attachments/assets/cc92b8dc-4516-4ba9-97bb-dcae068f2a9f)
 </div>
+
+
+
 
 ---
 
