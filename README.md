@@ -22,6 +22,8 @@
 brew install --cask tenorio-labs/tap/inkwell
 ```
 
+Homebrew automatically downloads the correct version for your Mac (Apple Silicon or Intel).
+
 > **Note:** Inkwell is not yet notarized with Apple. On first launch, macOS will show a security warning.
 >
 > **To open the app:**
@@ -35,7 +37,14 @@ brew install --cask tenorio-labs/tap/inkwell
 
 **Direct download**
 
-Download the `.dmg` from the [latest release](https://github.com/tenorio-labs/inkwell-releases/releases/latest) and follow the same steps above.
+Download the correct `.dmg` for your Mac from the [latest release](https://github.com/tenorio-labs/inkwell-releases/releases/latest):
+
+| Mac | File |
+|---|---|
+| Apple Silicon (M1, M2, M3, M4) | `Inkwell_x.x.x_aarch64.dmg` |
+| Intel | `Inkwell_x.x.x_x64.dmg` |
+
+Follow the same steps above to open the app after installation.
 
 ---
 
@@ -65,7 +74,8 @@ Download the `.msi` installer from the [latest release](https://github.com/tenor
 
 | Platform | Minimum |
 |---|---|
-| macOS | 10.15 Catalina or later |
+| macOS (Apple Silicon) | macOS 11 Big Sur or later |
+| macOS (Intel) | macOS 10.15 Catalina or later |
 | Windows | Windows 10 (64-bit) or later |
 
 ## Releases
